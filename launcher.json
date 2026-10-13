@@ -16,7 +16,8 @@
       "port": 27115,
       "region": "SA",
       "language": "pt",
-      "about": "Roleplay em português: aulas, casas e uma Hogwarts viva."
+      "about": "Roleplay em português: aulas, casas e uma Hogwarts viva.",
+      "discord": "https://discord.gg/pZ6SCMchjz"
     },
     {
       "id": "ita",
@@ -25,7 +26,8 @@
       "port": 27115,
       "region": "EU",
       "language": "it",
-      "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive."
+      "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
+      "discord": "https://discord.gg/pZ6SCMchjz"
     }
   ],
   "modsFile": "mods.json",
