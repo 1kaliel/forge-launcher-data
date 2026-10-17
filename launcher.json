@@ -34,5 +34,6 @@
   ],
   "modsFile": "mods.json",
   "modsSha256": "36e73b3f9a998ecda327d23ed3dd084f191645ff19983faffd99c997878354cf",
-  "news": []
+  "news": [],
+  "logDropUrl": "https://logs.rathforge.com/drop"
 }
