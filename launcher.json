@@ -3,10 +3,10 @@
   "minLauncher": "0.1.0",
   "build": {
     "version": "1.9.1",
-    "url": "https://storage-wkzhceiavxrhwbbsp.t3.storageapi.dev/releases/da40b75a-7565-4e9f-8af4-4af34fe93a5f/testing/HogwartsMP-1.9.1.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_PxQvGNYPIaVkWyIQlPkujrmyPcjasoOtxHxRSMfBUcqLcNpJmH%2F20261016%2Fams%2Fs3%2Faws4_request&X-Amz-Date=20261016T080013Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=7e1d7bb2d2b0433b65449a1a5effb169f9f330142e9d0cd91dc1c9c213b0db7d",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.9.1/HogwartsMP-1.9.1.zip",
     "sha256": "0fde96d91e5ec11ff9eba6f4cf35bac02235fe35f0293b034d72dfa80df71eb8",
     "bytes": 339573565,
-    "linkExpires": "2027-01-14"
+    "linkExpires": ""
   },
   "servers": [
     {
