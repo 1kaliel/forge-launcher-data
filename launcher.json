@@ -2,10 +2,10 @@
   "schema": 1,
   "minLauncher": "0.1.0",
   "build": {
-    "version": "1.9.1",
-    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.9.1/HogwartsMP-1.9.1.zip",
-    "sha256": "0fde96d91e5ec11ff9eba6f4cf35bac02235fe35f0293b034d72dfa80df71eb8",
-    "bytes": 339573565,
+    "version": "1.10.0",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.10.0/HogwartsMP-1.10.0.zip",
+    "sha256": "00fcc677e6fc15d5243fa8899de697d1c505e0b8875146ed9b727bc753d30236",
+    "bytes": 340404465,
     "linkExpires": ""
   },
   "servers": [
@@ -29,7 +29,7 @@
       "language": "it",
       "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
       "status": "http://45.141.57.212:27016/",
-      "discord": "https://discord.gg/pZ6SCMchjz"
+      "discord": "https://discord.gg/chronixita"
     }
   ],
   "modsFile": "mods.json",
