@@ -2,10 +2,10 @@
   "schema": 1,
   "minLauncher": "0.1.0",
   "build": {
-    "version": "1.10.0",
-    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.10.0/HogwartsMP-1.10.0.zip",
-    "sha256": "00fcc677e6fc15d5243fa8899de697d1c505e0b8875146ed9b727bc753d30236",
-    "bytes": 340404465,
+    "version": "1.11.0",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.11.0/HogwartsMP-1.11.0.zip",
+    "sha256": "fc45d376911b83aed5ee4ed682aba0264e19fadf5e930e8f7c40eb9279937cac",
+    "bytes": 371180657,
     "linkExpires": ""
   },
   "servers": [
