@@ -11,7 +11,7 @@
   "servers": [
     {
       "id": "br",
-      "name": "FORGE Brasil",
+      "name": "CHRONIX // BRASIL",
       "host": "179.197.238.36",
       "port": 27115,
       "region": "SA",
@@ -22,7 +22,7 @@
     },
     {
       "id": "ita",
-      "name": "FORGE Italia",
+      "name": "CHRONIX // ITALIA",
       "host": "62.105.221.77",
       "port": 27115,
       "region": "EU",
