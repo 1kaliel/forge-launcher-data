@@ -30,6 +30,16 @@
       "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
       "status": "http://62.105.221.77:27115/",
       "discord": "https://discord.gg/chronixita"
+    },
+    {
+      "id": "dev",
+      "name": "[DEV] Chronix // ITA",
+      "host": "143.20.154.85",
+      "port": 27115,
+      "region": "EU",
+      "language": "it",
+      "about": "Server di test dello staff: password richiesta.",
+      "status": "http://143.20.154.85:27115/"
     }
   ],
   "modsFile": "mods.json",
