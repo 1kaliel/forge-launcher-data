@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "minLauncher": "0.1.0",
+  "minLauncher": "0.5.0",
   "build": {
-    "version": "1.11.1",
-    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.11.1/HogwartsMP-1.11.1.zip",
-    "sha256": "c4e6b2cdf7d49bfeacc49deabd263b7d8c57b4b7c11bb642f55aab337229c0ee",
-    "bytes": 371204240,
+    "version": "1.12.2",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.12.2/ArcaneMP-1.12.2.zip",
+    "sha256": "16af4e466399241e07c2f3aeb8bdbf9f9505f03e60d4cb33547380e4c7716f3f",
+    "bytes": 371764886,
     "linkExpires": ""
   },
   "servers": [
