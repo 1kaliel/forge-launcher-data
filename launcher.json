@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "minLauncher": "0.5.0",
+  "minLauncher": "0.6.0",
   "build": {
-    "version": "1.12.2",
-    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.12.2/ArcaneMP-1.12.2.zip",
-    "sha256": "16af4e466399241e07c2f3aeb8bdbf9f9505f03e60d4cb33547380e4c7716f3f",
-    "bytes": 371764886,
+    "version": "1.13.0",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.13.0/ArcaneMP-1.13.0.zip",
+    "sha256": "5653ef8b9fbe1058f13d868b2c5a154ad3aa376f2e688389d6251208809bba73",
+    "bytes": 372152865,
     "linkExpires": ""
   },
   "servers": [
@@ -18,7 +18,9 @@
       "language": "pt",
       "about": "Roleplay em português: aulas, casas e uma Hogwarts viva.",
       "status": "http://104.234.224.228:27115/",
-      "discord": "https://discord.gg/pZ6SCMchjz"
+      "discord": "https://discord.gg/pZ6SCMchjz",
+      "modsFile": "mods-br.json",
+      "modsSha256": "429a431192b930180f4b3a1bcad4496acbbfb727591b93c95db2e6eb8d6174c1"
     },
     {
       "id": "ita",
@@ -29,7 +31,9 @@
       "language": "it",
       "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
       "status": "http://62.105.221.77:27115/",
-      "discord": "https://discord.gg/chronixita"
+      "discord": "https://discord.gg/chronixita",
+      "modsFile": "mods-ita.json",
+      "modsSha256": "d64e8a3c2a40635a3aed018e2956ed3adbbe388d0d9ad72772c59f78dc81c213"
     }
   ],
   "modsFile": "mods.json",
