@@ -25,12 +25,12 @@
     {
       "id": "ita",
       "name": "CHRONIX // ITALIA",
-      "host": "62.105.221.77",
+      "host": "80.211.81.241",
       "port": 27115,
       "region": "EU",
       "language": "it",
       "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
-      "status": "http://62.105.221.77:27115/",
+      "status": "http://80.211.81.241:27115/",
       "discord": "https://discord.gg/chronixita",
       "modsFile": "mods-ita.json",
       "modsSha256": "d64e8a3c2a40635a3aed018e2956ed3adbbe388d0d9ad72772c59f78dc81c213"

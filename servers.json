@@ -13,12 +13,12 @@
  {
   "id": "ita",
   "name": "FORGE Italia",
-  "host": "62.105.221.77",
+  "host": "80.211.81.241",
   "port": 27115,
   "region": "EU",
   "language": "it",
   "about": "Roleplay in italiano: lezioni, case e una Hogwarts che vive.",
   "discord": "https://discord.gg/pZ6SCMchjz",
-  "status": "http://62.105.221.77:27016/"
+  "status": "http://80.211.81.241:27115/"
  }
 ]
