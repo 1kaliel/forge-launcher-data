@@ -2,10 +2,10 @@
   "schema": 1,
   "minLauncher": "0.6.0",
   "build": {
-    "version": "1.13.0",
-    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.13.0/ArcaneMP-1.13.0.zip",
-    "sha256": "5653ef8b9fbe1058f13d868b2c5a154ad3aa376f2e688389d6251208809bba73",
-    "bytes": 372152865,
+    "version": "1.14.0",
+    "url": "https://github.com/1kaliel/forge-launcher-data/releases/download/hmp-1.14.0/ArcaneMP-1.14.0.zip",
+    "sha256": "15088819c33697a06bdfd1b41fbe45329d0e5ff07a1651611e96c058cd93a26c",
+    "bytes": 372689700,
     "linkExpires": ""
   },
   "servers": [
